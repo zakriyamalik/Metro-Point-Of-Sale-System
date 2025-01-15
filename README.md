@@ -1,1 +1,2 @@
-Additional updates after semester exams till 1st Jan.Regards! 
+POS system in java with gui in swing and mysql database 
+If you like it, give a star!!!
